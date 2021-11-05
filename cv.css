@@ -1,0 +1,41 @@
+body{background-color: gray;}
+
+.sidebar{width: 30%;background-color:white;height: 1460px;float: left;}
+i {font-size: 30px;margin-right: 20px;margin-left:10px ;margin-top: 10px; color: green;}
+.flex{display: flex;flex-direction: column;border-bottom: 2px solid ;}
+.div-sidebar{display: flex;flex-direction: column;font-size: 30px;margin-left: 20px;}
+.form-sidebar{margin-top: 60px;}
+.section-sidebar{margin-top: 60px;}
+.heading{position: absolute;top: 22%;color: white;}
+img{width: 100%;}
+
+
+
+.front{height: 800px;background-color:white;margin-left: 31%;width: auto;}
+.section-main{margin-left: 30px;}
+ header{font-size: 25px;margin-top: 5px;margin-left: 10px;font-weight: bold;}
+.current{background-color: green;color: white;}
+.nav-main{margin-left: 30px;margin-top: 25px;}
+.div-main{margin-left: 30px;margin-top: 25px;}
+.section-main{margin-top: 50px;}
+.nav-main{margin-top: 50px;border-bottom: 1px solid;margin-right: 10px;}
+.div-main{margin-top: 50px;}
+section{border-bottom: 2px solid;margin-left: 20px;margin-right: 10px;}
+.top{font-size: 35px;margin-left: 60px;margin-top: 20px;}
+.top i{font-size: 40px;}
+.last{height: 600px;background-color: white;margin-top: 10px;margin-left: 31%;}
+
+
+
+
+footer{width: 100%;height: 200px;background-color:green;text-align: center;margin-top: 3px;}
+footer i {color: white;font-size: 35px;}
+.div-footer{color: white;font-size: 55px;}
+
+
+p{font-size: 20px;}
+
+
+
+
+
